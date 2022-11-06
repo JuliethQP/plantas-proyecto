@@ -1,0 +1,17 @@
+body
+{
+  margin: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  color: #000000;
+
+}
+footer{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  font-weight: 400px;
+  font-size: 18px;
+  line-height: 21.78px;
+  padding: 100px;
+}
